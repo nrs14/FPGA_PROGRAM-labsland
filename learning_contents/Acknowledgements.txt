@@ -1,0 +1,18 @@
+LabsLand is a global network where multiple universities and individuals participate in improving the laboratories. Here we want to provide 
+acknowledge to everyone who has contributed to this laboratory to exist as it is today:
+
+•	Dr. Cándido Aramburu (UPNA): UPNA deployed the first Intel FPGA laboratories, deploying 10 of them in June 2019. Candido designed UPNA 
+  deployment, which was extremely used during the beginning of the COVID-19 pandemic. Candido also participated in all the creation of the 
+  first design, including the integration of Quartus in the environment and first ARM prototypes for the DE1-SoC boards.
+•	Dr. Rania Hussein (University of Washington): Dr. Hussein at the University of Washington supported this laboratory in various ways:
+  co-sponsored key features such as the breadboard support, the audio and video input support and the virtual keyboard and virtual joystick.
+  Additionally, Dr. Hussein made many suggestions, such as the inclusion of SystemVerilog. Also, University of Washington is one of the 
+  FPGA providers, with 8 DE1-SoC boards.
+•	Dr. Narayanan Ramakrishnan (Monash Malaysia): Dr. Ramakrishnan at Monash Malaysia co-sponsored the support for Nios II in the DE2-115 boards. 
+  Additionally, Monash Malaysia was one of the power users of the first half of 2020, with over 15,000 laboratory sessions by Dr. Ramakrishnan's students!
+•	Dr. Matt Smith and Dr. Donald C. Winsor (University of Michigan): University of Michigan is providing 12 DE2-115 boards, using Dr. Smith and
+  Dr. Winsor's design by themselves; and it is actively used at the University of Michigan. They also supported the virtual N8 controller.
+•	Ana Lucia Beraldo (UNIFESP): UNIFESP was the first (together with UPNA) provider of the Intel FPGA laboratories, and not only deployed its own 
+  FPGA boards, but also contributed many ideas on how the system should work. UNIFESP uses actively this laboratory
+•	Dr. Javier García-Zubia, Dr. Ignacio Angulo, Dr. Unai Hernández (University of Deusto): All this work has been based on the 15+ years of Research 
+  and Development by the WebLab-Deusto research group, led by Dr. García-Zubia. LabsLand is a spin-off of this research group.
